@@ -1,0 +1,30 @@
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C#\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Users\ThirunavukkarasuDhan\OneDrive - Syncfusion\Desktop\C# Assignments\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll
